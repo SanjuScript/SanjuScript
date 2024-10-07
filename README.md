@@ -1,4 +1,4 @@
-# 👋 Hey, I'm SanjuScript!
+# 👋 Hey, I'm Sanju!
 
 I'm a 19-year-old Malayali from the beautiful district of Kozhikode, Kerala. 🌴 I love to dive into anything tech-related, and my interests span from coding and app development to robotics. I'm always looking for ways to combine my love for technology with creativity. 
 
