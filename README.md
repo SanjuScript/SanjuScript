@@ -20,7 +20,7 @@ I'm a 19-year-old Malayali from the beautiful district of Kozhikode, Kerala. �
 - Robotics projects—let's build something cool!
   
 ## 📫 How to Reach Me
-- Drop me an email at: mozmusicfounder@gmail.com
+- Drop me an email at: ss094216@gmail.com
 - Let's connect on [GitHub](https://github.com/SanjuScript)!
 
 ## 😄 Pronouns: He/Him
