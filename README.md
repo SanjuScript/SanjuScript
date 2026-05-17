@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Sanju!
 
-I'm a 19-year-old Malayali from the beautiful district of Kozhikode, Kerala. 🌴 I love to dive into anything tech-related, and my interests span from coding and app development to robotics. I'm always looking for ways to combine my love for technology with creativity. 
+I'm a 20-year-old Malayali from the beautiful district of Kozhikode, Kerala. 🌴 I love to dive into anything tech-related, and my interests span from coding and app development to robotics. I'm always looking for ways to combine my love for technology with creativity. 
 
 ## 👀 What I'm Into
 - **Coding**: Flutter & Unity projects are my jam! 🎮
@@ -20,7 +20,7 @@ I'm a 19-year-old Malayali from the beautiful district of Kozhikode, Kerala. �
 - Robotics projects—let's build something cool!
   
 ## 📫 How to Reach Me
-- Drop me an email at: ss0942106@gmail.com
+- Drop me an email at: dev.sanju.codes@gmail.com
 - Let's connect on [GitHub](https://github.com/SanjuScript)!
 
 ## 😄 Pronouns: He/Him
